@@ -1,4 +1,4 @@
-# 🙃About me !
+# 👉About me !
 
 Hi, I am **François Condominas** and that's my [**NXP**](https://www.nxp.com/)👍[Git](https://github.com/) account.
 
